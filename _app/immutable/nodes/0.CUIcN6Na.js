@@ -754,7 +754,7 @@ function ol(r) {
       props: {
         text: "Buy on Uniswap",
         variant: "textGradient",
-        href: "https://app.uniswap.org/explore/tokens/ethereum/0xcomingsoon",
+        href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xcomingsoon",
         className:
           "font-avantGarde text-[1.125rem] font-bold h-[3.6875rem] w-[12.5rem] md:w-full",
       },
@@ -3631,7 +3631,7 @@ function Wl(r) {
         variant: "textGradient",
         className:
           "font-avantGarde text-[1.125rem] font-bold w-60 mx-auto mt-2 h-14",
-        href: "https://app.uniswap.org/explore/tokens/ethereum/0xcomingsoon",
+        href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xcomingsoon",
       },
     })),
     {
